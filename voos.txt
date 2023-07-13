@@ -1,0 +1,1 @@
+105,São paulo,Piauí,23/07/2023,12:30,15:20109,Rio de janeiro,Ceará,30/07/2023,16:21,18:10102,Amazonas,Pernambuco,02/08/2023,13:40,16:15110,Rio grande do norte,Mato grosso do sul,10/08/2023,19:00,21:10
